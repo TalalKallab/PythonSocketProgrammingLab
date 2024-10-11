@@ -5,6 +5,8 @@ Socket programming lab assignment involving client-server interactions using TCP
 
 This project implements a client-server application using Python sockets (TCP and UDP) as part of a university lab assignment.
 
+This project was completed as part of CEG4188: Higher Layer Network Protocols at the University of Ottawa. The lab focuses on developing client-server applications using TCP and UDP sockets in Python.
+
 ### Lab Overview
 The project involves:
 - A TCP client to register for a Casino Game.
